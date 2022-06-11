@@ -1,0 +1,36 @@
+List Adding:
+List size 10^3 time: 1570500
+List size 10^5 time: 10047800
+List size 10^7 time: 1739203300
+List Searching:
+List size 10^3 time: 162600
+List size 10^5 time: 5826600
+List size 10^7 time: 86857700
+List Removing:
+List size 10^3 time: 25200
+List size 10^5 time: 4600
+List size 10^7 time: 4800
+Queue Adding:
+Queue size 10^3 time: 1164200
+Queue size 10^5 time: 4407100
+Queue size 10^7 time: 1945542800
+Queue Searching:
+Queue size 10^3 time: 452100
+Queue size 10^5 time: 4521000
+Queue size 10^7 time: 83940900
+Queue Removing:
+Queue size 10^3 time: 73400
+Queue size 10^5 time: 2455100
+Queue size 10^7 time: 72496800
+Stack Adding:
+Stack size 10^3 time: 1494000
+Stack size 10^5 time: 7443300
+Stack size 10^7 time: 718988300
+Stack Searching:
+Stack size 10^3 time: 130500
+Stack size 10^5 time: 2700
+Stack size 10^7 time: 17700
+Stack Removing:
+Stack size 10^3 time: 17200
+Stack size 10^5 time: 15900
+Stack size 10^7 time: 1700
